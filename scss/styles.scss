@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+#ratefield {
+  font-family: 'Permanent Marker', 'cursive';
+  font-size: 3.0em;
+  margin-top: 100px;
+  color: red;
+}
+
+h1 {}
+
+#word {
+  margin-top: 80px;
+  font-size: 80px;
+  color: #fff;
+  text-align: center;
+}
+
+#dead {
+  margin-left: 60px;
+  margin-top: 80px;
+  font-size: 30px;
+  color: #ab1616;
+  opacity: 0.9;
+  text-align: center
+}
+
+form {
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#words {
+  margin-right: 20px
+}
+
+.letter {
+  display: inline-block;
+  list-style: none;
+  width: 20px;
+  margin: 0 5px;
+  border-bottom: 1px solid black;
+  text-align: center;
+  color: white;
+}
